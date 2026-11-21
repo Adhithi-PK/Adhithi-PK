@@ -8,7 +8,7 @@ A computer science student who loves exploring and building.
 
 ## 🛠️ Skills
 
-Languages: `Python` `JavaScript` `HTML` `CSS` 
+Languages: `Python` `Java` `HTML` `CSS` 
 
 **Tools:** `Git` `GitHub` `VS Code`
 
