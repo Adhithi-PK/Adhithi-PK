@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Adhithi 👋
+A computer science student who loves exploring and building.
 
-<!--
-**Adhithi-PK/Adhithi-PK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+-  I'm studying CSE(Cloud Computing and Automation)/ VIT BHOPAL UNIVERSITY /2029
+-  I'm currently learning  Python,Java,Dsa,SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+Languages: `Python` `JavaScript` `HTML` `CSS` 
+
+**Tools:** `Git` `GitHub` `VS Code`
+
+**Databases:** `MySQL` 
+
+
+
+
+
+
